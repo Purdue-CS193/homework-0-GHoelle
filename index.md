@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 #Grayson Hoelle's First CS193 Homework
-
+ 
 - The lecturers having good explanations.
 - The helpful TA's and other staff.
 - The occasionally silly slides on the slideshows.
